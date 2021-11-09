@@ -1,0 +1,31 @@
+.myWork {
+  padding: 0 20%;
+}
+
+.workGrid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.workGrid div {
+  margin: 2.5rem auto;
+}
+
+.workGrid img {
+  margin-right: 2rem;
+  box-shadow: -6px 8px 20px #2e2e2e;
+  border-radius: 0.2rem;
+}
+
+.work-description {
+  margin-left: 2rem;
+}
+
+.work-description h4 {
+  margin-top: 0;
+}
+
+.work-description p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
